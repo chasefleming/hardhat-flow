@@ -2,7 +2,7 @@
 
 This project demonstrates how you can deploy a Solidity project to the Flow blockchain or Sepolia using zero code changes to the code or project beyond pointing to the correct network. This project also shows how tools like OpenZeppelin can be used with Flow in the same way they would any other EVM compatible network.
 
-You'll see in the `[hardhat.config.js`](./hardhat.config.ts) file that we have a Flow `previewnet` network setup, in addition to `sepolia` for Ethereum. This is the testnet work on Flow supporing the EVM.
+You'll see in the [hardhat.config.js](./hardhat.config.ts) file that we have a Flow `previewnet` network setup, in addition to `sepolia` for Ethereum. This is the testnet work on Flow supporing the EVM.
 
 ## Using this Project
 
